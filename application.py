@@ -4,7 +4,8 @@ import sklearn
 import pickle
 import pandas as pd
 
-app = Flask(__name__)
+application = Flask(__name__)
+app = application
 model = pickle.load(open("flight_rf.pkl", "rb"))
 
 
