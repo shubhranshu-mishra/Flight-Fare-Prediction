@@ -2,6 +2,9 @@
 
 This Machine Learning Project is a Flask web app which predicts fare of Flight ticket.
 
+### Deployment Link
+http://flightfarepred-env.eba-sp8au7ez.eu-north-1.elasticbeanstalk.com/ 
+
 ### Dataset Source:
 https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
